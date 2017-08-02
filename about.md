@@ -8,9 +8,13 @@ I'm a Computer Science dropout who was been extremely fortunate to break into th
 
 ### Technology
 
-I currently work in the ASP.NET stack, using frameworks such as ASP.NET MVC and Web API. I use JavaScript in my day to day tasks as much as I can and I always pitch solutions with modern JavaScript. In my spare time I hack away on Node.js, React, and Angular projects. 
+I currently work in the ASP.NET stack, using frameworks such as ASP.NET MVC and Web API. I use JavaScript in my day to day tasks as much as I can and I always pitch solutions with modern JavaScript. In my spare time I hack away on Node.js, React, and Angular projects. I am interested in contributing to Open Source Software, who isn't in this day and age, but I haven't made the jump. 
 
 Note: I am also looking to return to Python. Shortly after my first programming course(C++) I found Python, I scripted and built web applications using Flask (as well as enriching my views with JavaScript) before joining my first job as a JavaScript dev and picking up .NET to contribute to a Desktop to Web platform migration.
+
+### Interests
+
+Outside of code my passions are: Cycling/Racing, Fitness, Health, Beating Type 2 Diabetes, Gender Issues, and Social Problems.
 
 ### Contact me
 
